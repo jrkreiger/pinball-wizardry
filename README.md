@@ -6,6 +6,7 @@ This is a project about pinball machines, inspired by [Pinball Map](https://pinb
 Here's what you'll find in this repo:
 
 * **pinball-wizardry.ipynb**: a Jupyter notebook containing project code.
+* **pinball_dashboard.html**: an HTML document containing an embedded Tableau dashboard.
 
 To run the notebook on your own machine, you'll need Python 3 and the following packages:
 
